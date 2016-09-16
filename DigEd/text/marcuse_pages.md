@@ -1,3 +1,11 @@
+---
+layout: narrative
+title: An Essay on Liberation
+author: Herbert Marcuse
+publication date: 1969
+source: "Beacon Press: Boston."
+---
+
 I. A Biological Foundation
 for Socialism
 as AFLUENT SOCIETY, capitalism co if (e two mainsprings of its dynamic A.modity production and productive and peneate all dimensions of privat ence. The available material and intellectual resource
